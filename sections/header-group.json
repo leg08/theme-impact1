@@ -17,38 +17,22 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Hasta 12x en tarjeta",
-            "url": ""
-          }
-        },
-        "message_jkKdw4": {
-          "type": "message",
-          "settings": {
-            "text": "Satisfacción garantizada",
-            "url": ""
-          }
-        },
-        "message_9wtUUK": {
-          "type": "message",
-          "settings": {
-            "text": "¡Envío gratis!",
+            "text": "✨Bienvenue chez Aloha✨",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_jkKdw4",
-        "message_9wtUUK"
+        "message"
       ],
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#fee1ed",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#272727"
       }
     },
     "header": {
@@ -56,8 +40,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/LOGO_OFICIAL_LATAM_200_x_100_px_280_x_80_px_39fd5a88-ae57-4d8a-9662-3747cad57061.png",
-        "logo_max_width": 145,
+        "logo": "shopify://shop_images/Capture_d_ecran_2025-04-25_024245-removebg-preview.png",
+        "logo_max_width": 80,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
         "sidebar_menu": "",
@@ -67,11 +51,10 @@
         "layout": "logo_left_navigation_center",
         "show_social_media": true,
         "show_locale_selector": true,
-        "show_country_selector": true,
+        "show_country_selector": false,
         "show_country_flag": true,
-        "show_country_name": false,
-        "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/LOGO_OFICIAL_LATAM_200_x_100_px_280_x_80_px_1945fa60-cc22-4114-b109-06d4ea44ea85.png",
+        "show_country_name": true,
+        "transparent_header_text_color": "#000000",
         "reduce_padding": false,
         "background_opacity": 80,
         "background_blur_radius": 16

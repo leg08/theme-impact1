@@ -12,53 +12,29 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/banner_1.png",
-            "mobile_image": "shopify://shop_images/BANNERS_MOBILE_-_TEMA_SECUNDARIO_LATAM2.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center-start text-start",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "¡A TODA ESPAÑA!",
-            "title": "Envío Gratis",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BANNERS_PC_-_TEMA_SECUNDARIO_LATAM_2000_x_450_px_2.png",
-            "mobile_image": "shopify://shop_images/111112asasaslula.png",
+            "image": "shopify://shop_images/Green_Minimalist_Elegant_Jewelry_Logo_1920_x_800_px.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "¡Artículos que hacen la diferencia en tu cocina!",
+            "title": "",
             "heading_tag": "h2",
-            "button_text": "¡Ver artículos!",
+            "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#ffde59",
             "button_text_color": "#1a1a1a",
             "overlay_color": "#000000",
-            "overlay_opacity": 20,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "slide-1",
         "slide-2"
       ],
       "settings": {
@@ -400,8 +376,6 @@
         "image_y6hA7D": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BANNERS_PC_-_TEMA_SECUNDARIO_LATAM_2000_x_450_px.png",
-            "mobile_image": "shopify://shop_images/BANNERS_MOBILE_-_TEMA_SECUNDARIO_LATAM2_7a2e837d-de6d-4aec-b501-6aba56377461.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
@@ -431,7 +405,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -471,7 +445,6 @@
       ],
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/101010.svg",
         "title": "",
         "content": "",
         "button_text": "",
