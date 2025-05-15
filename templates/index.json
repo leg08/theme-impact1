@@ -49,6 +49,22 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "scrolling_text_f7aeMh": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": false,
+        "text": "🌸 Craque pour nos bijoux en acier inoxydable !",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -520,6 +536,7 @@
   },
   "order": [
     "slideshow",
+    "scrolling_text_f7aeMh",
     "featured-collection",
     "collection-list",
     "featured-product",
