@@ -93,23 +93,23 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Regístrate para recibir nuevas historias y ofertas personales.",
+            "title": "Inscrivez-vous pour recevoir de nouvelles histoires et offres personnelles.",
             "content": ""
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "title": "Quiénes Somos",
-            "content": "<p>En <em><strong>Cocina Popular</strong></em><em>,</em> hacemos que cocinar sea fácil y accesible con productos innovadores y funcionales. Somos una comunidad comprometida con la calidad, el diseño y tu mejor experiencia. ¡Bienvenido! 💛</p>",
-            "enable_follow_on_shop": true
+            "title": "Qui nous sommes ?",
+            "content": "<p>Votre boutique ZanziJersey. Découvrez des maillots de multiples clubs et sélections nationales avec un large choix de nouveauté aux quotidien.</p>",
+            "enable_follow_on_shop": false
           }
         },
         "text_QRXYcJ": {
           "type": "text",
           "settings": {
-            "title": "Centro de Atención al Cliente",
-            "content": "<p><strong>Servicio:</strong> Lunes a viernes: 08:00 hs a 19:00 hs | Sábados, domingos y feriados: 11:00 hs a 22:00 hs.</p><p><strong>Correo electrónico: </strong>servicio@cocinapopular.com</p>",
+            "title": "Centre de service client",
+            "content": "<p>Service :  </p><p>du lundi au vendredi de 8 h à 19 h </p><p>Samedi, dimanche et jours fériés de 11 h à 22 h. </p><p>Courriel : zanzijersey.llc@gmail.com</p>",
             "enable_follow_on_shop": true
           }
         },

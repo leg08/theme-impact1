@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Green_Minimalist_Elegant_Jewelry_Logo_1920_x_800_px.png",
+            "image": "shopify://shop_images/Sans-titre-1000-x-667-px.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -54,11 +54,11 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": false,
-        "text": "🌸 Craque pour nos bijoux en acier inoxydable !",
+        "text": "3 ACHETE = 1 OFFERT",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 10,
+        "scrolling_speed": 9,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -68,7 +68,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "🌸-collection-de-chevillieres-by-aloha",
+        "collection": "",
         "products": [],
         "full_width": false,
         "stack_products": false,
@@ -418,21 +418,6 @@
         "background_gradient": ""
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Cocina Popular",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "hot-spots": {
       "type": "hot-spots",
       "blocks": {
@@ -536,7 +521,6 @@
     "media-grid",
     "featured_collection_jmjBVc",
     "slideshow_BFj9HE",
-    "scrolling-text",
     "hot-spots",
     "faq"
   ]

@@ -17,21 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "✨Bienvenue chez Aloha✨",
+            "text": "3 ACHETE = 1 OFFERT",
+            "url": ""
+          }
+        },
+        "message_Vd9nkX": {
+          "type": "message",
+          "settings": {
+            "text": "LIVRAISON EXPRESSE",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_Vd9nkX"
       ],
       "settings": {
         "enable_sticky": true,
         "text_size": "text-xs",
-        "navigation_mode": "arrows",
-        "scrolling_speed": 10,
+        "navigation_mode": "scrolling",
+        "scrolling_speed": 12,
         "background": "#fee1ed",
-        "background_gradient": "",
+        "background_gradient": "linear-gradient(270deg, rgba(240, 110, 105, 1), rgba(249, 208, 163, 1) 100%)",
         "text_color": "#272727"
       }
     },
@@ -40,7 +48,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Capture_d_ecran_2025-04-25_024245-removebg-preview.png",
         "logo_max_width": 80,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
