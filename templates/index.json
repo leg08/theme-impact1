@@ -93,7 +93,7 @@
     "featured_collection_eGjiDj": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "collection-homme",
         "products": [],
         "full_width": false,
         "stack_products": false,
@@ -221,7 +221,7 @@
     "featured_collection_jmjBVc": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "collection-femme",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -230,7 +230,32 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "Découvre Nos Maillots Édition Limitée",
+        "title": "{{ section.settings.collection.title }}",
+        "content": "",
+        "link_url": "",
+        "link_text": "tout voir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_collection_biEcNV": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "collection-enfants",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "{{ section.settings.collection.title }}",
         "content": "",
         "link_url": "",
         "link_text": "tout voir",
@@ -317,6 +342,7 @@
     "featured_collection_eGjiDj",
     "media-grid",
     "featured_collection_jmjBVc",
+    "featured_collection_biEcNV",
     "slideshow_BFj9HE",
     "faq"
   ]
