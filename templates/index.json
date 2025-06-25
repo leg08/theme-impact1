@@ -312,13 +312,29 @@
             "title": "Comment choisir la bonne taille ?",
             "content": "<p><em>Consultez notre guide des tailles pour trouver la coupe parfaite.</em></p>"
           }
+        },
+        "item_EXMkKJ": {
+          "type": "item",
+          "settings": {
+            "title": "Quels matériaux utilisez-vous ?",
+            "content": "<p><em>Nos maillots sont fabriqués en polyester respirant, léger et résistant, idéal pour le sport ou un usage quotidien.</em></p>"
+          }
+        },
+        "item_hYjLiw": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_XWrTBT"
+        "item_XWrTBT",
+        "item_EXMkKJ",
+        "item_hYjLiw"
       ],
       "settings": {
         "full_width": false,
