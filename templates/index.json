@@ -285,13 +285,6 @@
     "faq": {
       "type": "faq",
       "blocks": {
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "Livrez-vous à l’international ?",
-            "content": "<p><em>Oui, nous livrons en France et à l’international avec le service Chronopost.</em></p>"
-          }
-        },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
@@ -304,20 +297,6 @@
           "settings": {
             "title": "Comment suivre ma commande ?",
             "content": "<p><em>Une fois votre commande expédiée, vous recevrez un lien de suivi par email.</em></p><p><em>ou vous pourrez la suivre depuis ici : </em></p>"
-          }
-        },
-        "item_XWrTBT": {
-          "type": "item",
-          "settings": {
-            "title": "Comment choisir la bonne taille ?",
-            "content": "<p><em>Consultez notre guide des tailles pour trouver la coupe parfaite.</em></p>"
-          }
-        },
-        "item_EXMkKJ": {
-          "type": "item",
-          "settings": {
-            "title": "Quels matériaux utilisez-vous ?",
-            "content": "<p><em>Nos maillots sont fabriqués en polyester respirant, léger et résistant, idéal pour le sport ou un usage quotidien.</em></p>"
           }
         },
         "item_hYjLiw": {
@@ -336,11 +315,8 @@
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_XWrTBT",
-        "item_EXMkKJ",
         "item_hYjLiw",
         "item_qenCXh"
       ],
