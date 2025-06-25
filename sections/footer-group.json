@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "title": "Livraison gratuite",
+            "content": "<p><strong>livraison sous 3 à 5 jours ouvrés après traitement.</strong></p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "Service client",
+            "content": "<p><strong>Notre service client est disponible 7 sur 7 et 24H sur 24H sur le chat</strong></p>"
           }
         },
         "discount": {
@@ -62,8 +62,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "title": "Paiement sécurisé",
+            "content": "<p><strong>Nous garantissons la sécurité du traitement de vos informations de paiement.</strong></p>"
           }
         }
       },
