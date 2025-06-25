@@ -305,12 +305,20 @@
             "title": "Comment suivre ma commande ?",
             "content": "<p><em>Une fois votre commande expédiée, vous recevrez un lien de suivi par email.</em></p><p><em>ou vous pourrez la suivre depuis ici : </em></p>"
           }
+        },
+        "item_XWrTBT": {
+          "type": "item",
+          "settings": {
+            "title": "Comment choisir la bonne taille ?",
+            "content": "<p><em>Consultez notre guide des tailles pour trouver la coupe parfaite.</em></p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_XWrTBT"
       ],
       "settings": {
         "full_width": false,
