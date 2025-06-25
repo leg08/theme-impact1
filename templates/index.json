@@ -295,15 +295,15 @@
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Combien de temps prend la livraison ?",
+            "content": "<p><em>Entre 48h à 72 h jours ouvrés selon votre pays. Un suivi vous est envoyé après expédition.</em></p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Comment suivre ma commande ?",
+            "content": "<p><em>Une fois votre commande expédiée, vous recevrez un lien de suivi par email.</em></p><p><em>ou vous pourrez la suivre depuis ici : </em></p>"
           }
         }
       },
