@@ -35,12 +35,12 @@
       ],
       "settings": {
         "enable_sticky": true,
-        "text_size": "text-xs",
+        "text_size": "text-xxs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 12,
-        "background": "#fee1ed",
-        "background_gradient": "linear-gradient(270deg, rgba(240, 110, 105, 1), rgba(249, 208, 163, 1) 100%)",
-        "text_color": "#272727"
+        "background": "#ffffff",
+        "background_gradient": "linear-gradient(174deg, rgba(0, 0, 0, 1) 24%, rgba(253, 107, 168, 1) 100%)",
+        "text_color": "#ffffffff"
       }
     },
     "header": {
