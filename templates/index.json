@@ -70,7 +70,16 @@
       "type": "featured-collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "zanzijersey-noir",
+          "zanzijersey-femme-noir",
+          "zanzijersey-rose-et-noir",
+          "zanzijersey-femme-rose-copie",
+          "zanzijersey-homme-blanc",
+          "zanzijersey-femme-blanc-et-noir",
+          "zanzijersey-enfant-noir",
+          "zanzijersey-enfant-rose"
+        ],
         "full_width": false,
         "stack_products": false,
         "show_progress_bar": false,
