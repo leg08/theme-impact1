@@ -80,7 +80,7 @@
           "zanzijersey-enfant-noir",
           "zanzijersey-enfant-rose"
         ],
-        "full_width": false,
+        "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
         "products_count": 50,
@@ -105,7 +105,7 @@
       "settings": {
         "collection": "collection-homme",
         "products": [],
-        "full_width": false,
+        "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
         "products_count": 50,
@@ -327,7 +327,7 @@
         "collection": "collection-enfants",
         "products": [],
         "full_width": false,
-        "stack_products": false,
+        "stack_products": true,
         "show_progress_bar": false,
         "products_count": 6,
         "products_per_row_mobile": "2",
