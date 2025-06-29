@@ -326,7 +326,7 @@
       "settings": {
         "collection": "collection-enfants",
         "products": [],
-        "full_width": true,
+        "full_width": false,
         "stack_products": false,
         "show_progress_bar": false,
         "products_count": 6,
