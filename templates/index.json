@@ -15,7 +15,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/3_MAILLOT_ACHETE_1_MAILLOT_OFFERT_b27f4d3f-6b09-4a31-8967-7cc357291232.png",
+            "image": "shopify://shop_images/zanzibar.jpg",
+            "mobile_image": "shopify://shop_images/zanzibar.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
