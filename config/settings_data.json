@@ -27,7 +27,7 @@
     "header_text_color": "#ffffff",
     "footer_background": "rgba(0,0,0,0)",
     "footer_text_color": "#ffffff",
-    "primary_button_background": "#272727",
+    "primary_button_background": "rgba(0,0,0,0)",
     "primary_button_text_color": "#ffffff",
     "secondary_button_background": "#3c619e",
     "secondary_button_text_color": "#ffffff",
