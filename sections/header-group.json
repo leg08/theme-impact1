@@ -59,11 +59,11 @@
         "layout": "logo_left_navigation_center",
         "show_social_media": true,
         "show_locale_selector": true,
-        "show_country_selector": false,
+        "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": true,
         "transparent_header_text_color": "#000000",
-        "reduce_padding": false,
+        "reduce_padding": true,
         "background_opacity": 80,
         "background_blur_radius": 16
       }
