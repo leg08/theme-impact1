@@ -9,26 +9,13 @@
  */
 {
   "sections": {
-    "custom_liquid_7KNa9c": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2_8fd6d271-809c-4f47-9fd4-67ac598e28f9.jpg",
+            "image": "shopify://shop_images/zanzibar.jpg",
             "mobile_image": "shopify://shop_images/zanzibar.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -93,7 +80,7 @@
           "zanzijersey-enfant-noir",
           "zanzijersey-enfant-rose"
         ],
-        "full_width": true,
+        "full_width": false,
         "stack_products": false,
         "show_progress_bar": false,
         "products_count": 50,
@@ -435,7 +422,6 @@
     }
   },
   "order": [
-    "custom_liquid_7KNa9c",
     "slideshow",
     "scrolling_text_f7aeMh",
     "featured-collection",
