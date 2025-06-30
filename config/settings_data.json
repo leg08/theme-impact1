@@ -25,7 +25,7 @@
     "error_color": "#aa2826",
     "header_background": "#272727",
     "header_text_color": "#ffffff",
-    "footer_background": "#272727",
+    "footer_background": "rgba(0,0,0,0)",
     "footer_text_color": "#ffffff",
     "primary_button_background": "#272727",
     "primary_button_text_color": "#ffffff",
