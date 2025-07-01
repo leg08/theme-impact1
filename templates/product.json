@@ -80,6 +80,13 @@
             "content": "<p>Sélectionnez 4 produits et recevez automatiquement l’un d’entre eux offert dans votre panier.</p>"
           }
         },
+        "collapsible_text_DaeCzQ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livraison Express",
+            "content": "<p>Vos colis sont préparés et expédiés sous 24/48h, pour une livraison en 3 jours ouvrables.</p>"
+          }
+        },
         "collapsible_text_4wkwLX": {
           "type": "collapsible_text",
           "settings": {
@@ -100,6 +107,7 @@
         "buy_buttons",
         "description",
         "collapsible_text_anUdhJ",
+        "collapsible_text_DaeCzQ",
         "collapsible_text_4wkwLX"
       ],
       "settings": {
