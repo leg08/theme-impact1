@@ -73,6 +73,13 @@
             "collapse_content": true
           }
         },
+        "collapsible_text_anUdhJ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "3 ACHETER = 1 OFFERT",
+            "content": "<p>Sélectionnez 4 produits et recevez automatiquement l’un d’entre eux offert dans votre panier.</p>"
+          }
+        },
         "collapsible_text_4wkwLX": {
           "type": "collapsible_text",
           "settings": {
@@ -92,6 +99,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "collapsible_text_anUdhJ",
         "collapsible_text_4wkwLX"
       ],
       "settings": {
