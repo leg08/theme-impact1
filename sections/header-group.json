@@ -45,10 +45,7 @@
     },
     "header": {
       "type": "header",
-      "custom_css": [
-        ".header {backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); transition: backdrop-filter 0.3s ease;}",
-        "/* Maintenir le flou même lors des interactions */.header:hover,.header:focus,.header:active,.header.clicked {backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);}"
-      ],
+      "custom_css": [],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
