@@ -45,6 +45,10 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        ".header {transition: backdrop-filter 0.3s ease;}",
+        ".header.scrolled {backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);}"
+      ],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
