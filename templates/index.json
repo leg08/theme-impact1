@@ -421,7 +421,33 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "{{ section.settings.collection.title }}",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_collection_wqFeWU": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "equipe-de-france",
+        "products": [],
+        "full_width": false,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 50,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "{{ section.settings.collection.title }}",
         "content": "",
         "link_url": "",
         "link_text": "View all",
@@ -536,75 +562,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "collection_list_waC8pK": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_3G8tki": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_y3FEJy": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_zdKa4e": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_3G8tki",
-        "collection_y3FEJy",
-        "collection_zdKa4e"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "full_width": true,
-        "stack_collections": true,
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "Collection list",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "multiple_images_with_text_WxJ3Fx": {
@@ -826,9 +783,9 @@
     "featured_collection_biEcNV",
     "collection_list_TnVFkz",
     "featured_collection_m3NtQQ",
+    "featured_collection_wqFeWU",
     "image_link_blocks_yWWn7i",
     "multiple_images_with_text_Efn7we",
-    "collection_list_waC8pK",
     "multiple_images_with_text_WxJ3Fx",
     "collection_list_T398W7",
     "impact_text_aQxgHB",
