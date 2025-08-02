@@ -450,7 +450,7 @@
         "title": "{{ section.settings.collection.title }}",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "tout voir",
         "background": "",
         "background_gradient": "",
         "text_color": "",
