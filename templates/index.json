@@ -55,7 +55,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": false,
-        "text": "3 ACHETE = 1 OFFERT",
+        "text": "2 Achetés = 1 OFFERT",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
