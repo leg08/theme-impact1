@@ -309,7 +309,7 @@
         "product_card_text_color": "",
         "product_card_mobile_background": "",
         "product_card_mobile_text_color": "",
-        "background_dots": "#FFF"
+        "background_dots": "#ffffff"
       }
     },
     "featured_collection_biEcNV": {
@@ -758,7 +758,7 @@
         "background": "",
         "background_gradient": "",
         "heading_text_color": "rgba(0,0,0,0)",
-        "heading_gradient": "linear-gradient(270deg, rgba(240, 110, 105, 1), rgba(249, 208, 163, 1) 100%)",
+        "heading_gradient": "linear-gradient(0deg, rgba(240, 110, 105, 0), rgba(92, 92, 92, 0.69) 79%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
