@@ -516,27 +516,15 @@
           "settings": {
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Maillots manches longues",
+            "content": "<p>Affichez votre passion pour le football avec style et confort grâce à notre collection exclusive de<strong>maillots manches longues</strong>.</p>",
             "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_bX9GXb": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
+            "button_text": "Découvrir..."
           }
         }
       },
       "block_order": [
-        "item_kmzfkN",
-        "item_bX9GXb"
+        "item_kmzfkN"
       ],
       "name": "Multiple images with text",
       "settings": {
