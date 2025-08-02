@@ -225,7 +225,7 @@
     "featured_collection_eGjiDj": {
       "type": "featured-collection",
       "settings": {
-        "collection": "collection-homme",
+        "collection": "collection-2024-2025",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -250,7 +250,7 @@
     "featured_collection_jmjBVc": {
       "type": "featured-collection",
       "settings": {
-        "collection": "collection-femme",
+        "collection": "womens-euro-2025",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -259,8 +259,8 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "{{ section.settings.collection.title }}",
-        "content": "",
+        "title": "NOUVEAUTÉS EN EXCLUSIVITÉ",
+        "content": "<p>{{ section.settings.collection.title }}</p>",
         "link_url": "",
         "link_text": "tout voir",
         "background": "",
