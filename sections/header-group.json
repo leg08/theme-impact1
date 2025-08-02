@@ -38,8 +38,8 @@
         "text_size": "text-xxs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 12,
-        "background": "#ffffff",
-        "background_gradient": "linear-gradient(325deg, rgba(236, 52, 176, 1) 13%, rgba(8, 8, 8, 1) 77%)",
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "linear-gradient(325deg, rgba(255, 0, 0, 1) 14%, rgba(255, 255, 255, 0.47) 49%, rgba(52, 96, 236, 1) 84%)",
         "text_color": "#ffffff"
       }
     },
