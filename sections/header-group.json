@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "3 ACHETE = 1 OFFERT",
+            "text": "2 ACHETÉS = 1 OFFERT",
             "url": ""
           }
         },
         "message_Vd9nkX": {
           "type": "message",
           "settings": {
-            "text": "LIVRAISON EXPRESSE",
+            "text": "LIVRAISON OFFERTE PENDANT 24H",
             "url": ""
           }
         }
