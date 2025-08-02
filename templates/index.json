@@ -594,73 +594,30 @@
         "button_text_color": ""
       }
     },
-    "collection_list_T398W7": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_A7aAbV": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_DQibJb": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_TQakKT": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_A7aAbV",
-        "collection_DQibJb",
-        "collection_TQakKT"
-      ],
-      "name": "Collection list",
+    "featured_collection_hXDY7t": {
+      "type": "featured-collection",
+      "name": "Featured collection",
       "settings": {
-        "full_width": true,
-        "stack_collections": true,
-        "collections_per_row": 3,
+        "collection": "kits-enfants",
+        "products": [],
+        "full_width": false,
+        "stack_products": false,
         "show_progress_bar": false,
+        "products_count": 50,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
         "subheading": "",
-        "title": "Collection list",
+        "title": "{{ section.settings.collection.title }}",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "tout voir",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": ""
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "impact_text_aQxgHB": {
@@ -775,7 +732,7 @@
     "multiple_images_with_text_Efn7we",
     "featured_collection_wqFeWU",
     "multiple_images_with_text_WxJ3Fx",
-    "collection_list_T398W7",
+    "featured_collection_hXDY7t",
     "impact_text_aQxgHB",
     "faq"
   ]
