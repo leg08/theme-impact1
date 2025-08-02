@@ -434,32 +434,6 @@
         "product_card_text_color": ""
       }
     },
-    "featured_collection_wqFeWU": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "equipe-de-france",
-        "products": [],
-        "full_width": false,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 50,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 5,
-        "subheading": "",
-        "title": "{{ section.settings.collection.title }}",
-        "content": "",
-        "link_url": "",
-        "link_text": "tout voir",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "image_link_blocks_yWWn7i": {
       "type": "image-link-blocks",
       "blocks": {
@@ -564,6 +538,32 @@
         "button_text_color": ""
       }
     },
+    "featured_collection_wqFeWU": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "equipe-de-france",
+        "products": [],
+        "full_width": false,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 50,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "{{ section.settings.collection.title }}",
+        "content": "",
+        "link_url": "",
+        "link_text": "tout voir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "multiple_images_with_text_WxJ3Fx": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -572,27 +572,15 @@
           "settings": {
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "KITS ENFANTS",
+            "content": "<p>kits complets pour enfants, comprenant maillots de foot, shorts.</p>",
             "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_eEWzRD": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
+            "button_text": "Découvrir..."
           }
         }
       },
       "block_order": [
-        "item_F3JdmU",
-        "item_eEWzRD"
+        "item_F3JdmU"
       ],
       "name": "Multiple images with text",
       "settings": {
@@ -783,9 +771,9 @@
     "featured_collection_biEcNV",
     "collection_list_TnVFkz",
     "featured_collection_m3NtQQ",
-    "featured_collection_wqFeWU",
     "image_link_blocks_yWWn7i",
     "multiple_images_with_text_Efn7we",
+    "featured_collection_wqFeWU",
     "multiple_images_with_text_WxJ3Fx",
     "collection_list_T398W7",
     "impact_text_aQxgHB",
