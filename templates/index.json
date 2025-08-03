@@ -279,7 +279,7 @@
           "type": "product",
           "settings": {
             "product": "maillot-algerie-edition-speciale-2024-25-version-player-copie",
-            "horizontal_position": 52,
+            "horizontal_position": 25,
             "vertical_position": 25
           }
         },
@@ -300,6 +300,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
+        "image": "shopify://shop_images/36ddaa11-f3ba-48bd-9b38-4d1cc92c82aa_jpg.webp",
         "title": "LE PRINCE EST DE RETOUR",
         "content": "",
         "background": "",
