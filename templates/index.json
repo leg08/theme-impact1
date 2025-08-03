@@ -514,6 +514,7 @@
         "item_kmzfkN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2e09d456-da45-4e97-a3a0-97f60723cb79_jpg.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Maillots manches longues",
@@ -570,6 +571,7 @@
         "item_F3JdmU": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Tf_jpg.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "KITS ENFANTS",
