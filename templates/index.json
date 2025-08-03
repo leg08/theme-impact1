@@ -444,7 +444,7 @@
         "title": "{{ section.settings.collection.title }}",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "Tout voir",
         "background": "",
         "background_gradient": "",
         "text_color": "",
