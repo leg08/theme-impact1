@@ -80,22 +80,15 @@
         "collapsible_text_anUdhJ": {
           "type": "collapsible_text",
           "settings": {
-            "title": "3 ACHETER = 1 OFFERT",
-            "content": "<p>Sélectionnez 4 produits et recevez automatiquement l’un d’entre eux offert dans votre panier.</p>"
+            "title": "2 maillots achetés = 1 maillot offert ! Comment profiter ?",
+            "content": "<p>Ajoutez 3 maillots à votre panier : la réduction s'appliquera automatiquement !</p>"
           }
         },
-        "collapsible_text_DaeCzQ": {
+        "collapsible_text_Cbak3X": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Livraison Express",
-            "content": "<p>Vos colis sont préparés et expédiés sous 24/48h, pour une livraison en 3 jours ouvrables.</p>"
-          }
-        },
-        "collapsible_text_4wkwLX": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "3 ACHETE = 1 OFFERT",
-            "content": ""
+            "title": "Retour gratuit",
+            "content": "<p>Une fois votre commande passée, vous recevrez vos articles sous <strong>7 à 14 jours ouvrables</strong>. Si un article a un défauts, vous avez <strong>14 jours après réception </strong>pour nous le retourner gratuitement.</p>"
           }
         }
       },
@@ -112,8 +105,7 @@
         "buy_buttons",
         "description",
         "collapsible_text_anUdhJ",
-        "collapsible_text_DaeCzQ",
-        "collapsible_text_4wkwLX"
+        "collapsible_text_Cbak3X"
       ],
       "settings": {
         "full_width": true,
@@ -159,7 +151,7 @@
         "show_progress_bar": false,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
-        "subheading": "",
+        "subheading": "2 achetés = 1 offert !",
         "title": "Vous aimerez peut-être aussi",
         "content": "",
         "background": "",
