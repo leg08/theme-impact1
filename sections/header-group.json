@@ -48,7 +48,7 @@
       "custom_css": [],
       "settings": {
         "enable_sticky": true,
-        "hide_on_scroll": true,
+        "hide_on_scroll": false,
         "logo": "shopify://shop_images/test_copie.png",
         "logo_max_width": 45,
         "logo_mobile_max_width": 25,
