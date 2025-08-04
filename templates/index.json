@@ -78,6 +78,7 @@
         "video_dYdgnh": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/ssstik.io_1754319566693.mp4",
             "external_video_url": "",
             "show_video_controls": false,
             "title": "",
@@ -101,6 +102,7 @@
         "video_La3emc": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/ssstik.io_1754319752980.mp4",
             "external_video_url": "",
             "show_video_controls": false,
             "title": "",
@@ -124,6 +126,7 @@
         "video_9LQ8Bn": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/ssstik.io_1754319824687.mp4",
             "external_video_url": "",
             "show_video_controls": false,
             "title": "",
@@ -365,7 +368,7 @@
             "image": "shopify://shop_images/Design_sans_titre_8.webp",
             "subheading": "",
             "title": "",
-            "url": "shopify://collections/euro-2024",
+            "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
@@ -702,43 +705,29 @@
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Quel est le délai de traitement et d'expéditions des articles ?",
-            "content": "<p>Après réception de votre commande, nous effectuons des contrôles de qualité et des tests afin de garantir la qualité du produit avant son expédition. Le délai de traitement varie en fonction du produit spécifique, avec un délai moyen d'environ 1 à 3 jours ouvrés.</p>"
+            "title": "Combien de temps prend la livraison ?",
+            "content": "<p><em>Entre 48h à 72 h jours ouvrés selon votre pays. Un suivi vous est envoyé après expédition.</em></p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Quel est le délai de livraison de ma commande ?",
-            "content": "<p>Veuillez prévoir un délai de 7 à 14 jours ouvrables pour la livraison de votre commande . Le traitement de votre commande prends en moyenne 1 à 3 jours ouvrables.</p>"
+            "title": "Comment suivre ma commande ?",
+            "content": "<p><em>Une fois votre commande expédiée, vous recevrez un lien de suivi par email.</em></p><p><em>ou vous pourrez la suivre depuis ici : </em></p>"
           }
         },
         "item_hYjLiw": {
           "type": "item",
           "settings": {
-            "title": "Puis-je suivre ma commande ?",
-            "content": "<p>Une fois votre colis expédié, vous recevrez un courrier électronique contenant les coordonnées du transporteur et votre numéro d'envoi, que vous pourrez utiliser pour suivre votre commande via ce lien :</p>"
+            "title": "Y aura-t-il de nouveaux modèles ?",
+            "content": "<p><em>Oui, nous lançons régulièrement de nouvelles collections. Abonnez-vous à notre newsletter pour ne rien rater.</em></p>"
           }
         },
         "item_qenCXh": {
           "type": "item",
           "settings": {
-            "title": "Proposez-vous des tailles pour enfants et adultes ?",
-            "content": "<p>Oui, nous proposons des maillots pour enfants et adultes. Vous trouverez une gamme complète de tailles adaptées à toutes les tranches d'âge, des plus petits aux plus grands. Consultez notre guide des tailles pour choisir celle qui vous convient le mieux.</p>"
-          }
-        },
-        "item_CbwXwR": {
-          "type": "item",
-          "settings": {
-            "title": "Proposez-vous des options de personnalisation de maillots ?",
-            "content": "<p>Oui, nous proposons des options de personnalisation de maillots. Vous pouvez ajouter le nom et le numéro de votre choix, ainsi que des badges spécifiques. Pour plus de détails et pour personnaliser votre maillot, veuillez consulter la section dédiée à la personnalisation lors de votre commande.</p>"
-          }
-        },
-        "item_D4ziNU": {
-          "type": "item",
-          "settings": {
-            "title": "Comment entretenir et laver mon maillot de foot ?",
-            "content": "<ol><li><strong>Lavage à la main</strong> : C'est la méthode la plus sûre. Utilisez de l'eau froide ou tiède et un détergent doux.</li><li><strong>Lavage en machine</strong> : Si vous utilisez une machine à laver, retournez le maillot à l'envers et utilisez un cycle délicat à l'eau froide. Évitez l'utilisation de l'eau chaude qui pourrait endommager les impressions.</li><li><strong>Évitez les produits chimiques</strong> : N'utilisez pas de javel ni d'adoucissant, car ils peuvent endommager le tissu et les impressions.</li><li><strong>Séchage</strong> : Laissez sécher à l'air libre à l'ombre. Évitez le séchage en machine et l'exposition directe au soleil pour prévenir la décoloration et la déformation.</li><li><strong>Repassage</strong> : Si nécessaire, repassez à basse température à l'envers et évitez de passer le fer directement sur les impressions ou les logos.</li></ol><p>En suivant ces conseils, vous prolongerez la durée de vie de votre maillot tout en conservant sa qualité et ses couleurs.</p>"
+            "title": "Puis-je retourner mon maillot ?",
+            "content": "<p><em>Oui, vous avez 14 jours après réception pour demander un échange ou un remboursement si le produit ne vous convient pas. (Le produit ne dois pas être abimé)</em></p>"
           }
         }
       },
@@ -746,9 +735,7 @@
         "166442457738b23caf-1",
         "166442457738b23caf-2",
         "item_hYjLiw",
-        "item_qenCXh",
-        "item_CbwXwR",
-        "item_D4ziNU"
+        "item_qenCXh"
       ],
       "settings": {
         "full_width": false,
