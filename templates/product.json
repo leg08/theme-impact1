@@ -28,6 +28,12 @@
             "show_taxes_notice": false
           }
         },
+        "inventory_aiTy8i": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 0
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -111,6 +117,7 @@
         "title",
         "badges",
         "price",
+        "inventory_aiTy8i",
         "rating",
         "payment_terms",
         "separator",
